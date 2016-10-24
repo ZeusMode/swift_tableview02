@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<array>
+		<string>ABC</string>
+		<string>Águia de Marabá</string>
+		<string>América de Natal</string>
+		<string>América Mineiro</string>
+		<string>Aparecidense</string>
+		<string>ASA</string>
+		<string>Atlético Goianiense</string>
+		<string>Atlético Mineiro</string>
+		<string>Atlético Paranaense</string>
+		<string>Avaí</string>
+	</array>
+	<key>B</key>
+	<array>
+		<string>Bahia</string>
+		<string>Boa Esporte</string>
+		<string>Botafogo</string>
+		<string>Botafogo-PB</string>
+		<string>Botafogo-SP</string>
+		<string>Bragantino</string>
+		<string>Brasil de Pelotas</string>
+	</array>
+	<key>C</key>
+	<array>
+		<string>Caldense</string>
+		<string>Campinense</string>
+		<string>Caxias</string>
+		<string>Ceará</string>
+		<string>Central</string>
+		<string>Chapecoense</string>
+		<string>Colo Colo</string>
+		<string>Comercial-MS</string>
+		<string>Confiança</string>
+		<string>Corinthians</string>
+		<string>Coritiba</string>
+		<string>Coruripe</string>
+		<string>CRAC</string>
+		<string>CRB</string>
+		<string>Criciúma</string>
+		<string>Cruzeiro</string>
+		<string>Cuiabá</string>
+	</array>
+	<key>D</key>
+	<array>
+		<string>Duque de Caxias</string>
+	</array>
+	<key>E</key>
+	<array>
+		<string>Estanciano</string>
+	</array>
+	<key>F</key>
+	<array>
+		<string>Figueirense</string>
+		<string>Flamengo</string>
+		<string>Fluminense</string>
+		<string>Fortaleza</string>
+		<string>Foz do Iguaçu</string>
+	</array>
+	<key>G</key>
+	<array>
+		<string>Gama</string>
+		<string>Globo</string>
+		<string>Goianésia</string>
+		<string>Goiás</string>
+		<string>Grêmio</string>
+		<string>Guarani</string>
+		<string>Guarani de Juazeiro</string>
+		<string>Guaratinguetá</string>
+	</array>
+	<key>H</key>
+	<array/>
+	<key>I</key>
+	<array>
+		<string>Icasa</string>
+		<string>Imperatriz</string>
+		<string>Inter de Lages</string>
+		<string>Internacional</string>
+	</array>
+	<key>J</key>
+	<array>
+		<string>Joinville</string>
+		<string>Juventude</string>
+	</array>
+	<key>K</key>
+	<array/>
+	<key>L</key>
+	<array>
+		<string>Lajeadense</string>
+		<string>Londrina</string>
+		<string>Luverdense</string>
+	</array>
+	<key>M</key>
+	<array>
+		<string>Macaé</string>
+		<string>Madureira</string>
+		<string>Metropolitano</string>
+		<string>Mogi Mirim</string>
+	</array>
+	<key>N</key>
+	<array>
+		<string>Nacional-AM</string>
+		<string>Náutico</string>
+		<string>Náutico-RR</string>
+	</array>
+	<key>O</key>
+	<array>
+		<string>Oeste</string>
+		<string>Operário-MT</string>
+		<string>Operário-PR</string>
+	</array>
+	<key>P</key>
+	<array>
+		<string>Palmas</string>
+		<string>Palmeiras</string>
+		<string>Paraná</string>
+		<string>Paysandu</string>
+		<string>Ponte Preta</string>
+		<string>Portuguesa</string>
+	</array>
+	<key>Q</key>
+	<array/>
+	<key>R</key>
+	<array>
+		<string>Red Bull Brasil</string>
+		<string>Remo</string>
+		<string>Resende</string>
+		<string>Rio Branco-AC</string>
+		<string>Rio Branco-ES</string>
+		<string>Ríver-PI</string>
+	</array>
+	<key>S</key>
+	<array>
+		<string>Salgueiro</string>
+		<string>Sampaio Corrêa</string>
+		<string>Santa Cruz</string>
+		<string>Santos</string>
+		<string>Santos-AP</string>
+		<string>São Caetano</string>
+		<string>São Paulo</string>
+		<string>Serra Talhada</string>
+		<string>Serrano</string>
+		<string>Sport</string>
+	</array>
+	<key>T</key>
+	<array>
+		<string>Tombense</string>
+		<string>Treze</string>
+		<string>Tupi</string>
+	</array>
+	<key>U</key>
+	<array/>
+	<key>V</key>
+	<array>
+		<string>Vasco da Gama</string>
+		<string>Vila Nova</string>
+		<string>Vilhena</string>
+		<string>Villa Nova</string>
+		<string>Vitória</string>
+		<string>Volta Redonda</string>
+	</array>
+	<key>W</key>
+	<array/>
+	<key>X</key>
+	<array/>
+	<key>Y</key>
+	<array>
+		<string>Ypiranga-RS</string>
+	</array>
+	<key>Z</key>
+	<array/>
+</dict>
+</plist>
